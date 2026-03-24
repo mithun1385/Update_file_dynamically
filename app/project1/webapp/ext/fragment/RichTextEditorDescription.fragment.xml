@@ -1,0 +1,7 @@
+
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:macros="sap.fe.macros" xmlns:richtexteditor="sap.fe.macros.richtexteditor">
+    <VBox id="VBox">
+        <Text id="Text" text="RichTextEditorDescription"/>
+        <macros:RichTextEditorWithMetadata metaPath="/Movies/description" id="RichTextEditor"/>
+    </VBox>
+</core:FragmentDefinition>

@@ -1,0 +1,11 @@
+ID,title,genre,durationMinutes,releaseDate,director,language,ticketPrice
+a1b2c3d4-e001-4a11-9a11-111111111001,Inception,SCI_FI,148,2010-07-16,Christopher Nolan,English,250
+a1b2c3d4-e002-4a22-9a22-111111111002,Interstellar,SCI_FI,169,2014-11-07,Christopher Nolan,English,300
+a1b2c3d4-e003-4a33-9a33-111111111003,The Dark Knight,ACTION,152,2008-07-18,Christopher Nolan,English,280
+a1b2c3d4-e004-4a44-9a44-111111111004,Avengers Endgame,ACTION,181,2019-04-26,Anthony Russo,English,350
+a1b2c3d4-e005-4a55-9a55-111111111005,Titanic,ROMANCE,195,1997-12-19,James Cameron,English,200
+a1b2c3d4-e006-4a66-9a66-111111111006,Avatar,SCI_FI,162,2009-12-18,James Cameron,English,320
+a1b2c3d4-e007-4a77-9a77-111111111007,Joker,DRAMA,122,2019-10-04,Todd Phillips,English,270
+a1b2c3d4-e008-4a88-9a88-111111111008,Gladiator,ACTION,155,2000-05-05,Ridley Scott,English,240
+a1b2c3d4-e009-4a99-9a99-111111111009,The Matrix,SCI_FI,136,1999-03-31,Lana Wachowski,English,260
+a1b2c3d4-e010-4a10-9a10-111111111010,Forrest Gump,DRAMA,142,1994-07-06,Robert Zemeckis,English,230
